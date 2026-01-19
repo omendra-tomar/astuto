@@ -561,11 +561,4 @@ aws resourcegroupstaggingapi get-resources \
 
 ---
 
-## Next Steps
 
-Would you like me to:
-
-1. **Create a script to generate all resource JSONs** with mandatory tags for the new blueprint?
-2. **Generate Raptor commands** to create the new project and add all resources?
-3. **Create a migration plan** from old blueprint to new clean blueprint?
-4. **Build resource dependency graph** to show the correct order of creation?
