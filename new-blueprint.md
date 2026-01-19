@@ -557,7 +557,6 @@ aws resourcegroupstaggingapi get-resources \
 - ❌ amplify
 - ❌ batch
 - ❌ cloudwatch_alert
-- ❌ lambda
 
 ---
 
