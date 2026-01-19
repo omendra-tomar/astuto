@@ -303,7 +303,7 @@ Based on the cleanup analysis, here are the resource types you should add to you
 4. ❌ **Amplify** - Already migrated away
 5. ❌ **Batch** - Already handled
 6. ❌ **CloudWatch Alerts** - No longer used
-7. ❌ **Lambda** - Confirmed unused
+7. ❌ **Lambda** - not sure
 
 ---
 
